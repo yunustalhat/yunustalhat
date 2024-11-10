@@ -1,70 +1,62 @@
-# Merhaba, ben Yunus! 👋
+# Hi, I'm Yunus Talha Topçu! 👋
 
-### Yazılım Geliştiricisi | Full-Stack Developer | Teknoloji Meraklısı
+### Real Estate Digital Marketing Specialist | Software Developer | Technology Enthusiast
 
-🔧 **Kullandığım Teknolojiler:**
-- **Frontend:** HTML5, CSS3, JavaScript (React.js, Vue.js)
-- **Backend:** Node.js, Express.js, PHP
-- **Veritabanı:** MySQL, MongoDB
-- **Diğer:** Docker, Git, Linux, RESTful API'ler, GraphQL
+🔧 **Technologies I Work With:**
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP, Python
+- **Programming Languages:** C, Python
+- **Databases:** MySQL, MongoDB
+- **Tools & Other:** Git, Docker, Linux, RESTful APIs, Web Scraping
 
-🌱 **Öğrenmeye ve Gelişmeye Devam Ediyorum:**
-- Yapay Zeka ve Makine Öğrenimi
-- Mobil Uygulama Geliştirme (React Native)
-- Bulut Teknolojileri (AWS, Azure)
-
----
-
-### 🚀 Hakkımda
-Merhaba, ben Yunus Talhat! Geliştirici olarak tutkumu teknolojiye ve yazılım geliştirmeye adadım. Her zaman yeni şeyler öğrenmeye hevesliyim ve özellikle **full-stack** geliştirme konusunda derinlemesine bilgi sahibiyim. Projelerimi açık kaynaklı yaparak topluluğa katkıda bulunmaya çalışıyorum. Ayrıca, kodun sadece işlevsel değil, aynı zamanda şık ve sürdürülebilir olması gerektiğine inanıyorum.
-
-🌟 **Amacım**: Yazılım dünyasında kendimi her geçen gün daha da geliştirmek ve katkı sağlamak.
+🌱 **Currently Learning:**
+- Real Estate Digital Marketing
+- Web Development & Software Engineering
+- SEO & SEM
+- Artificial Intelligence & Machine Learning
+- API Integration & Web Scraping
 
 ---
 
-### 📈 GitHub İstatistiklerim
-[![Yunus'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=yunustalhat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/yunustalhat)
+### 🚀 About Me
+I'm Yunus Talha Topçu! I specialize in real estate digital marketing strategies and I also dedicate my free time to improving my programming skills. I have a strong foundation in frontend technologies like HTML, CSS, and JavaScript. I'm also gaining experience in backend development with PHP and Python.
+
+🔍 **My Goal**: To combine my expertise in real estate digital marketing with my growing programming skills to contribute to the development of innovative digital tools and software solutions.
 
 ---
 
-### 🔗 İletişim
+### 📈 GitHub Stats
+[![Yunus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunustalhat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/yunustalhat)
+
+---
+
+### 💬 Let’s Connect!
 - **LinkedIn:** [linkedin.com/in/yunustalhat](https://linkedin.com/in/yunustalhat)
-- **Web Site:** [yunustalhat.dev](https://yunustalhat.dev) (Henüz hazır, çok yakında!)
+- **Website:** [yunustalhat.dev](https://yunustalhat.dev) (Coming soon!)
 - **Twitter:** [@yunustalhat](https://twitter.com/yunustalhat)
 
 ---
 
-### 📂 Çalışmalarım
-- [**Proje 1**](https://github.com/yunustalhat/proje-1) - React.js ile yapılmış bir e-ticaret uygulaması
-- [**Proje 2**](https://github.com/yunustalhat/proje-2) - Node.js ve MongoDB kullanarak geliştirdiğim RESTful API
-- [**Proje 3**](https://github.com/yunustalhat/proje-3) - PHP ile yazılmış bir blog platformu
+### 📂 My Focus Areas & Future Projects
+#### Real Estate Digital Marketing:
+- **SEO & SEM**: Optimize websites for search engines to drive organic traffic.
+- **Email Marketing**: Develop marketing strategies for targeted email campaigns.
+- **Social Media Marketing**: Create ad campaigns and content strategies on platforms like Facebook, Instagram, and LinkedIn.
+
+#### Software Development & Web Projects:
+- **Frontend Projects**: Building simple web pages and interactive websites using HTML, CSS, and JavaScript.
+- **Backend Development**: Developing web applications with PHP and Python, working with databases.
+- **Web Scraping & API Integration**: Using Python to gather data from websites and integrating APIs for various platforms.
 
 ---
 
-### 🌱 Açık Kaynak Katkılarım
-- [Proje 1](https://github.com/proje1) - Açık kaynak bir projeye katkıda bulundum.
-- [Proje 2](https://github.com/proje2) - Hata düzeltme ve iyileştirmeler yaptım.
+### 🔥 My Interests
+- **Real Estate Digital Marketing & SEO**
+- **Web Development (Frontend & Backend)**
+- **Artificial Intelligence & Machine Learning**
+- **API Development & Web Scraping**
+- **Data Analysis & Visualization**
 
 ---
 
-### 📚 Eğitim ve Sertifikalar
-- **Full-Stack Web Development** - [Udemy](https://www.udemy.com)
-- **React.js Advanced** - [Coursera](https://www.coursera.org)
-- **Yapay Zeka ve Makine Öğrenimi** - [Kaggle](https://www.kaggle.com)
-
----
-
-### 💬 Yazılım Topluluğuna Katkı
-Topluluğa sürekli katkı sağlamaya çalışıyorum. Açık kaynak projelere katılarak, yazılım dünyasına katkı sağlamak en büyük tutkum. Projelerimde, başkalarının kolayca kullanabileceği ve gelişim gösterebileceği altyapılar yaratmaya özen gösteriyorum.
-
----
-
-### 🔥 İlgi Alanlarım
-- **Yapay Zeka ve Makine Öğrenimi**
-- **Web Geliştirme ve Mobil Uygulama Geliştirme**
-- **Bulut Teknolojileri ve DevOps**
-- **Oyun Geliştirme ve AR/VR**
-
----
-
-🖥️ **Geliştirdiğim projelerle dünyayı daha iyi bir yer haline getirmeyi hedefliyorum!** 🚀
+### 💡 **I’m passionate about learning new technologies and improving my skills every day!** 🚀
