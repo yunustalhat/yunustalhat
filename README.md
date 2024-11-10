@@ -30,12 +30,7 @@ I'm Yunus Talha Topçu! I focus on real estate digital marketing strategies and 
 
 ---
 
-![Code Fun]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwxaXI2Zm5nZDh4cHp0NXZ4cjdzeHg0c2N1dmM2Nnhjb2lsZXZyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwxaXI2Zm5nZDh4cHp0NXZ4cjdzeHg0c2N1dmM2Nnhjb2lsZXZyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp))  
-
----
-
 > **"The best way to predict the future is to create it." – Peter Drucker**  
-> **"Geleceği tahmin etmenin en iyi yolu, onu yaratmaktır." – Peter Drucker**
 
 ---
 
