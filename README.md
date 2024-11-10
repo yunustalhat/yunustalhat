@@ -1,62 +1,67 @@
-# Hi, I'm Yunus Talha Topçu! 👋
+# Merhaba, ben Yunus Talha Topçu! 👋
 
-### Real Estate Digital Marketing Specialist | Software Developer | Technology Enthusiast
+### Gayrimenkul Dijital Pazarlama Uzmanı | Yazılım Geliştirici | Teknoloji Meraklısı
 
-🔧 **Technologies I Work With:**
+🔧 **Kullandığım Teknolojiler:**
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** PHP, Python
-- **Programming Languages:** C, Python
-- **Databases:** MySQL, MongoDB
-- **Tools & Other:** Git, Docker, Linux, RESTful APIs, Web Scraping
+- **Programlama Dilleri:** C, Python
+- **Veritabanı:** MySQL, MongoDB
+- **Araçlar & Diğer:** Git, Docker, Linux, RESTful API'ler, Web Scraping
 
-🌱 **Currently Learning:**
-- Real Estate Digital Marketing
-- Web Development & Software Engineering
+🌱 **Öğrenmeye Devam Ediyorum:**
+- Gayrimenkul Dijital Pazarlama
+- Web Geliştirme & Yazılım Mühendisliği
 - SEO & SEM
-- Artificial Intelligence & Machine Learning
-- API Integration & Web Scraping
+- Yapay Zeka ve Makine Öğrenimi
+- API Entegrasyonu & Web Scraping
 
 ---
 
-### 🚀 About Me
-I'm Yunus Talha Topçu! I specialize in real estate digital marketing strategies and I also dedicate my free time to improving my programming skills. I have a strong foundation in frontend technologies like HTML, CSS, and JavaScript. I'm also gaining experience in backend development with PHP and Python.
+### 🚀 Hakkımda
+Ben Yunus Talha Topçu! Gayrimenkul dijital pazarlama stratejilerine odaklanıyorum ve boş zamanlarımda programlama becerilerimi geliştiriyorum. HTML, CSS ve JavaScript gibi frontend teknolojilerine hakimim. Ayrıca PHP ve Python ile backend geliştirme konusunda deneyim kazanmaya devam ediyorum.
 
-🔍 **My Goal**: To combine my expertise in real estate digital marketing with my growing programming skills to contribute to the development of innovative digital tools and software solutions.
-
----
-
-### 📈 GitHub Stats
-[![Yunus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunustalhat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/yunustalhat)
+🔍 **Hedefim**: Gayrimenkul dijital pazarlama bilgimi, yazılım geliştirme becerilerimle birleştirerek yenilikçi dijital araçlar ve yazılım çözümleri geliştirmek.
 
 ---
 
-### 💬 Let’s Connect!
-- **LinkedIn:** [linkedin.com/in/yunustalhat](https://linkedin.com/in/yunustalhat)
-- **Website:** [yunustalha.com](https://yunustalha.com) (Coming soon!)
+### 📈 GitHub İstatistiklerim
+[![Yunus' GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=yunustalhat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/yunustalhat)
+
+---
+
+### 🌟 Eğlenceli Görsellerim
+![Code Fun](https://media.giphy.com/media/l2Jju5j6L4Bv9Ekic/giphy.gif)  
+(Resmi tıklayarak eğlenceli bir animasyona bakabilirsiniz!)
+
+---
+
+### 💬 Beni Takip Edin!
 - **Instagram:** [@yunustalhat](https://instagram.com/yunustalhat)
+- **Web Sitesi:** [yunustalha.com](https://yunustalha.com) (Yakında!)
+  
+---
+
+### 📂 İlgi Alanlarım & Gelecek Projelerim
+#### Gayrimenkul Dijital Pazarlama:
+- **SEO & SEM**: Web sitelerini arama motorları için optimize ederek organik trafik sağlama.
+- **E-posta Pazarlama**: Hedefli e-posta kampanyaları için pazarlama stratejileri geliştirme.
+- **Sosyal Medya Pazarlama**: Facebook, Instagram gibi platformlarda reklam kampanyaları ve içerik stratejileri oluşturma.
+
+#### Yazılım Geliştirme & Web Projeleri:
+- **Frontend Projeleri**: HTML, CSS ve JavaScript kullanarak basit web sayfaları ve etkileşimli web siteleri oluşturma.
+- **Backend Geliştirme**: PHP ve Python ile web uygulamaları geliştirme, veritabanlarıyla çalışma.
+- **Web Scraping & API Entegrasyonu**: Python kullanarak web sitelerinden veri toplama ve çeşitli platformlar için API entegrasyonları sağlama.
 
 ---
 
-### 📂 My Focus Areas & Future Projects
-#### Real Estate Digital Marketing:
-- **SEO & SEM**: Optimize websites for search engines to drive organic traffic.
-- **Email Marketing**: Develop marketing strategies for targeted email campaigns.
-- **Social Media Marketing**: Create ad campaigns and content strategies on platforms like Facebook, Instagram, and LinkedIn.
-
-#### Software Development & Web Projects:
-- **Frontend Projects**: Building simple web pages and interactive websites using HTML, CSS, and JavaScript.
-- **Backend Development**: Developing web applications with PHP and Python, working with databases.
-- **Web Scraping & API Integration**: Using Python to gather data from websites and integrating APIs for various platforms.
+### 🔥 İlgi Alanlarım
+- **Gayrimenkul Dijital Pazarlama & SEO**
+- **Web Geliştirme (Frontend & Backend)**
+- **Yapay Zeka & Makine Öğrenimi**
+- **API Geliştirme & Web Scraping**
+- **Veri Analizi & Görselleştirme**
 
 ---
 
-### 🔥 My Interests
-- **Real Estate Digital Marketing & SEO**
-- **Web Development (Frontend & Backend)**
-- **Artificial Intelligence & Machine Learning**
-- **API Development & Web Scraping**
-- **Data Analysis & Visualization**
-
----
-
-### 💡 **I’m passionate about learning new technologies and improving my skills every day!** 🚀
+### 💡 **Yeni teknolojiler öğrenmeye ve her gün becerilerimi geliştirmeye tutkuluyum!** 🚀
