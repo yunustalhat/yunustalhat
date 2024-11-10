@@ -1,6 +1,6 @@
 # Hello, I'm Yunus Talha Topçu! 👋
 
-### Real Estate Digital Marketing Expert | Software Developer | Technology Enthusiast
+### Real Estate Digital Marketing Expert | Junior Software Developer
 
 🔧 **Technologies I Use:**
 - **Frontend:** HTML5, CSS3, JavaScript
