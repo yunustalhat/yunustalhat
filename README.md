@@ -32,8 +32,8 @@ I'm Yunus Talha Topçu! I specialize in real estate digital marketing strategies
 
 ### 💬 Let’s Connect!
 - **LinkedIn:** [linkedin.com/in/yunustalhat](https://linkedin.com/in/yunustalhat)
-- **Website:** [yunustalhat.dev](https://yunustalhat.dev) (Coming soon!)
-- **Twitter:** [@yunustalhat](https://twitter.com/yunustalhat)
+- **Website:** [yunustalha.com](https://yunustalha.com) (Coming soon!)
+- **Instagram:** [@yunustalhat](https://instagram.com/yunustalhat)
 
 ---
 
