@@ -5,7 +5,7 @@
 🔧 **Technologies I Use:**
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** PHP, Python
-- **Programming Languages:** C, Python
+- **Programming Languages:** Python
 - **Databases:** MySQL, MongoDB
 - **Tools & Other:** Git, Docker, Linux, RESTful APIs, Web Scraping
 
